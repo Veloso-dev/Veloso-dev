@@ -55,7 +55,7 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Veloso-dev&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Veloso-dev" />
 </p>
 
-**Linguagens e ferramentas:**  
+ 
 
 
 </p>

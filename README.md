@@ -9,17 +9,19 @@
 <a href="https://www.instagram.com/gabriel_oveloso_/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
+
 <p align="left" >
 Me chamo <b> Gabriel Veloso</b>.
 </p>
+<a href="https://www.linkedin.com/in/gabrielvelosoandrade/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
 <p align="left" >
 Atualmente moro em São luis/Ma-br .<br />
 E estou me capacitando para me tornar uma <b>Desenvolvedor Front-end </b>.
 </p>
-<a href="https://www.linkedin.com/in/gabrielvelosoandrade/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+
 <p align="left" >
 Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
 </p>

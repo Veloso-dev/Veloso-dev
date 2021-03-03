@@ -6,15 +6,13 @@
 <p align="left" > 
   <b>Faaallaaa Devs!</b>
 </p>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
+<a href="https://www.instagram.com/gabriel_oveloso_/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
 Me chamo <b> Gabriel Veloso</b>.
 </p>
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
+
 <p align="left" >
 Atualmente moro em São luis/Ma-br .<br />
 E estou me capacitando para me tornar uma <b>Desenvolvedor Front-end </b>.

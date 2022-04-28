@@ -47,7 +47,7 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
   - Ler livros;
   
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um e-mail para Velosoarts@gmail.com
+- 📫 Se quiser pode enviar um e-mail para gaveloso.dev@gmail.com
 
 
 <p>

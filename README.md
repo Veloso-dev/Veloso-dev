@@ -19,7 +19,7 @@ Me chamo <b> Gabriel Veloso</b>.
 
 <p align="left" >
 Atualmente moro em São luis/Ma-br .<br />
-E estou me capacitando para me tornar uma <b>Desenvolvedor Front-end </b>.
+E estou me capacitando para me tornar uma <b>Desenvolvedor Full stack </b>.
 </p>
 
 <p align="left" >

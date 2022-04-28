@@ -27,7 +27,7 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
 </p>
 <p align="left" >
 <ul>
-  <li>JavaScript </li>  <li> <br> Node.js </li>
+  <li>JavaScript </li>  <li>  Node.js </li>
   
   </li>
   

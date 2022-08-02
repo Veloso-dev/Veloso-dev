@@ -39,12 +39,13 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1614802661532.png" width="400px" />    
 
-- 👩‍💻 Estou estudando Front-end com **JavaScript**, **Express** e utilizando o framework **Bootstrap**;
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💻 Estou procurando minha primeira experiência como Desenvolvedor Júnior;
+- 🌱 Atualmente, aprendendo muito sobre React e focando meus estudos nessa biblioteca;
+- 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
 - 👾 Meus hobbies são: 
   - Estudar ; 
   - Viajar;
-  - Ler livros;
+  - Gammer nas horas vagas;
   
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um e-mail para gaveloso.dev@gmail.com

@@ -45,7 +45,7 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
 - 👾 Meus hobbies são: 
   - Estudar ; 
   - Viajar;
-  - Gammer nas horas vagas;
+  - Gamer nas horas vagas;
   
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um e-mail para gaveloso.dev@gmail.com
